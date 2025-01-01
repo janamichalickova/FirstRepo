@@ -1,3 +1,5 @@
 This is my first file
 
 new change in Master
+
+second change in Master
